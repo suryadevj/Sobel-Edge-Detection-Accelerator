@@ -18,8 +18,7 @@ rtl/       RTL source and testbench (Verilog)
   sobel_tb.v   - Testbench
 
 reports/   Project documentation, reports, and flow screenshots
-  sobel_project.pdf         - Project documentation
-  sobel_project_report.pdf  - Detailed project report
+  sobel_project_report.pdf  - Full project report
   images/                   - Screenshots from RTL simulation, synthesis,
                               floorplanning, CTS, place & route, timing
                               analysis, power reports, and LEC
